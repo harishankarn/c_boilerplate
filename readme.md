@@ -9,3 +9,12 @@ This is structure for a basic "C project"
 * test project using `./test`
 * clean cmake specific files with `./cmake-clean`
 
+* To cleam new contents in the folder execute command in following order
+* cd src
+* make clean
+* cd tests
+* make clean
+* cd ..
+* ./cmake-clean  
+
+
