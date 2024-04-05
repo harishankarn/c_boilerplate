@@ -15,6 +15,15 @@ This is structure for a basic "C project"
 * cd tests
 * make clean
 * cd ..
-* ./cmake-clean  
+* ./cmake-clean
+
+=================================
+
+To run code 
+cd src 
+./RateEm
+
+To run Test cases 
+./test from base folder 
 
 
